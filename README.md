@@ -10,7 +10,7 @@ Foi desenvolvidas as operações de CRUD e métodos de ordenação dos dados ins
 
 ![](./prints crud/2.PNG)
 
-![](./prints crud/3.PNG)
+![](../prints crud/3.PNG)
 
 ![](./prints crud/4.PNG)
 
