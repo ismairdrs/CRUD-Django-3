@@ -8,10 +8,10 @@ Foi desenvolvidas as operações de CRUD e métodos de ordenação dos dados ins
 
 ![](https://github.com/ismairdrs/CRUD-Django-3/blob/master/prints%20crud/1.PNG)
 
-![](./prints crud/2.PNG)
+![](https://github.com/ismairdrs/CRUD-Django-3/blob/master/prints%20crud/2.PNG)
 
-![](../prints crud/3.PNG)
+![](https://github.com/ismairdrs/CRUD-Django-3/blob/master/prints%20crud/3.PNG)
 
-![](./prints crud/4.PNG)
+![](https://github.com/ismairdrs/CRUD-Django-3/blob/master/prints%20crud/4.PNG)
 
-![](./prints crud/5.PNG)
+![](https://github.com/ismairdrs/CRUD-Django-3/blob/master/prints%20crud/5.PNG)
